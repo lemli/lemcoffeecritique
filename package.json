@@ -1,0 +1,19 @@
+{
+  "name": "lemcoffeecritique",
+  "version": "1.0.0",
+  "description": "test generating package js file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lemli/lemcoffeecritique.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lemli/lemcoffeecritique/issues"
+  },
+  "homepage": "https://github.com/lemli/lemcoffeecritique#readme"
+}
